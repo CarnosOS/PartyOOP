@@ -1,0 +1,13 @@
+{
+    "name": "archersys/partyoop",
+    "description": "Party OOP Package for ArcherSys Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "acosf",
+            "email": "acosf2014.pdflint@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
